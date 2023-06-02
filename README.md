@@ -7,7 +7,7 @@
 $ sudo apt update && sudo apt install -y curl
 $ curl -fsSL https://get.docker.com/ | sudo sh
 ```
-Создам файл Dockerfile:ы
+Создам файл Dockerfile:
 ```
 FROM ubuntu:18.04 
 
