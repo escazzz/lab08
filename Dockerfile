@@ -1,6 +1,6 @@
 
 FROM ubuntu:18.04 
-фывфывфыв
+
 RUN apt update 
 RUN apt install -yy gcc g++ cmake
  
